@@ -1,0 +1,6 @@
+{
+    "preferred_weekday_times": ["6:00 PM", "5:00 PM", "7:00 PM"],
+    "preferred_weekend_times": ["5:00 PM", "4:00 PM", "3:00 PM"],
+    "preferred_dates": null,
+    "preferred_location": null
+}

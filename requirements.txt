@@ -1,0 +1,4 @@
+schedule>=1.1.0
+daemonocle>=1.2.2
+click>=7.1.1
+
