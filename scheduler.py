@@ -37,7 +37,7 @@ logger.addHandler(fh)
 
 
 # set locations
-locations = {"Waverly": '506', "Towson": '502'}
+locations = {"Waverly": '506', "Towson": '502', 'Druid Hill': '499', 'Parkville': '503'}
 
 # get preferences
 with open('prefs.json', 'r') as f:
